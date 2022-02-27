@@ -7,7 +7,6 @@
 ### Happy to meet you! 
 
 I am a computer engineering student with a passion for business and photography. I may not be the typical computer guy but I'm very curious and really like finding solutions to different problems! 
-<img align="right" alt="GIF" src="https://github.com/ellarekow/ellarekow/blob/main/ellarekowgif" width="408" height="318" />
 
 **What I'm up to right now?**
 
