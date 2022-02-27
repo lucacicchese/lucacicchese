@@ -14,3 +14,9 @@ I am a computer engineering student with a passion for business and photography.
 - Finishing my computer engineering degree
 - I'm mantaining an ecommerce website that I created from scratch for a friend of mine (https://yellowsouls.co.uk/)
 - I manage a community of photographers on Instagram (https://www.instagram.com/filmshootersgroup/)
+- I'm reading _The tipping point: How Little Things Can Make a Big Difference_
+
+
+
+
+
