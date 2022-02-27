@@ -6,7 +6,8 @@
 
 ### Happy to meet you! 
 
-I am a computer engineering student with a passion for business and photography. I may not be the typical computer guy but I'm very curious and really like finding solutions to different problems! 
+I am a computer engineering student with a passion for business and photography. I may not be the typical computer guy but I'm very curious and really like finding solutions to different problems!
+<img align="right" alt="GIF" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" />
 
 **What I'm up to right now?**
 
